@@ -26,5 +26,6 @@
       }
      
     ],
-    "inventory":[]
+    "inventory":[],
+    "userDetails":[]
   }
